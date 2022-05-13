@@ -12,4 +12,4 @@ export var content3 = [
 ];
 export var saleText = "Khuyến Mãi Mùa #Covid-19";
 export var blueStart =
-  '<img class="icon_blueStart" src="../img/star_blue_ruby.png">';
+  '<img class="icon_blueStart" src="/img/star_blue_ruby.png">';
